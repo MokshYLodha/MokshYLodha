@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moksh Lodha
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning sql,python,ehical hacking
+- 🌱 I’m currently working on Stock-Tracker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me whatsaap,Instagram 
 - 😄 Pronouns: ...
